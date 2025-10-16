@@ -24,7 +24,7 @@
 
 - 🎓 I'm currently completing my Master's degree in **Software Engineering**.
 - 🚀 My recent internship at **Devoteam** involved building **AI Agents** and exploring **LLMs** & automation frameworks like `CrewAI`.
-- 🌱 I’m focused on deepening my expertise in **Machine Learning** and **DevOps** practices.
+- 🌱 I’m focused on deepening my expertise in **Backend Technologies** (like Spring Boot) and **DevOps** practices (CI/CD, Docker).
 - 💬 Ask me about **Python, Java, Spring Boot, Docker, or AI concepts**.
 - 📫 How to reach me: **eladnanimehdi03@gmail.com**
 
